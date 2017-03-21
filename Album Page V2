@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Chronicle, Vol. 1</title>
+	</head>
+	<body>
+		<p style="text-align: center;">
+		<img src="http://target.scene7.com/is/image/Target/15559149?wid=450&hei=450&fmt=pjpeg"
+			 alt="Picture of Chronicle, Vol. 1 album cover."
+			 style="width: 300px;height: 300px"/>
+		</p>
+		
+		<h2 style="text-align: center;">
+			Chronicle, Vol. 1
+		</h2>
+		
+		<h3 style="text-align: center;"> 
+			<a href="https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival">Creedence Clearwater Revival</a>
+		</h3>
+		
+		<h4 style="text-align: center;">
+			January, 1976
+		</h4>
+		
+		<hr/>
+		
+		<h3 style="text-align: center;">
+			Band members and Producers
+		</h3>
+		
+		<ul>
+			<li>John Fogerty – vocals, lead guitar, production, arrangements</li>
+			<li>Tom Fogerty – rhythm guitar (except on tracks 19 and 20)</li>
+			<li>Stu Cook – bass guitar</li>
+			<li>Doug Clifford – drums</li>
+			<li>Produced by John Fogerty</li>
+		</ul>
+	</body>
+</html>
