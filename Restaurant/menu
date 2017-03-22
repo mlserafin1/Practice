@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Menu</title>
+	</head>
+	<body>
+		<h1 style="text-align:center;">Cha-Cha's!</h1><hr/>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/home">Home</a>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/menu">Menu</a>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/contactUs">Contact Us</a><hr/>
+		<table>
+			<tr>
+				<th>Burgers and Fries</th>
+				<th>Hot Dogs and Chips</th>
+				<th>Italian Sausage and Peppers</th>
+			</tr>
+			<tr>
+				<td>
+					An American Classic! Your choice - with or without cheese. Pickle, onion, tomato, and lettuce. Served with our famous thick cut french fries. $7.95
+				</td>
+				<td>
+					A Summer Classic! Your choice - white or wheat bun. Relish, mustard, and ketchup. Served with our house-made chips. $7.95
+				</td>
+				<td>
+					An All-Time Favorite!! Your choice - mild or spicy. Cole Slaw. Served with garlic mashers. $10.95
+				</td>
+			</tr>
+			<tr>
+				<th>Tenderloin Sandwich and Chips</th>
+				<th>House Salad</th>
+				<th>Brisker Sandwich and Fries</th>
+			</tr>
+			<tr>
+				<td>
+					Really Hits the Spot! Plain or Sesame Seed Bun. Pickle, onion, tomato, and lettuce. Served with our house-made chips. $8.95
+				</td>
+				<td>
+					On the Lighter Side. Your choice - with or without cheese. Iceberg lettuce, tomatoes, peppers. Thousand Island or Ranch Dressing. Served with a dinner roll. $6.95
+				</td>
+				<td>
+					A Taste of Texas! Smoked Brisket on thick-cut Texas Toast. Cole Slaw. Served with our famous thick-cut french fries. $7.95
+				</td>
+			</tr>
+		</table>
+		<hr/>
+		<h4 style="text-align: center;">78345 Anywhere Rd., Smithtown, MI, 41771</h4>
+		<h4 style="text-align: center;">(517) 874-1837</h4>
+	</body>
+</html>

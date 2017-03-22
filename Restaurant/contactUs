@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Contact Us</title>
+	</head>
+	<body>
+		<h1 style="text-align:center;">Cha-Cha's!</h1><hr/>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/home">Home</a>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/menu">Menu</a>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/contactUs">Contact Us</a><hr/>
+		<form action="fakePage.html" method="POST">
+			Name: <input type="text" name="name" /><br/>
+			Email: <input type="text" name="email" /><br/>
+			Phone: <input type="text" name="phone" /><br/>
+			Reason for Inquiry:     
+				<select name="reasonForInquiry">
+					<option value="catering">Catering</option>
+					<option value="privateParty">Private Party</option>
+					<option value="feedback">Feedback</option>
+					<option value="other">Other</option>
+				</select><br/>
+			Additional Information:
+				<textarea name="additionalInfo"></textarea><br/>
+			Have you been to the restaurant? 
+				<input type="radio" name="visit" value="no" checked/>No
+				<input type="radio" name="visit" value="yes" />Yes<br/>
+			Best days to contact you:
+				<input type="checkbox" name="day" value="monday" />M
+				<input type="checkbox" name="day" value="tuesday" />T
+				<input type="checkbox" name="day" value="wednesday" />W
+				<input type="checkbox" name="day" value="thursday" />R
+				<input type="checkbox" name="day" value="friday" />F<br/>
+			<input type="submit" value="Submit Request" />
+		</form>
+		<hr/>
+		<h4 style="text-align: center;">78345 Anywhere Rd., Smithtown, MI, 41771</h4>
+		<h4 style="text-align: center;">(517) 874-1837</h4>
+	</body>
+</html>
