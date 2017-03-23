@@ -9,16 +9,31 @@
 		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/menu">Menu</a>
 		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/contactUs">Contact Us</a><hr/>
 		<form action="fakePage.html" method="POST">
-			Name: <input type="text" name="name" /><br/>
-			Email: <input type="text" name="email" /><br/>
-			Phone: <input type="text" name="phone" /><br/>
-			Reason for Inquiry:     
-				<select name="reasonForInquiry">
-					<option value="catering">Catering</option>
-					<option value="privateParty">Private Party</option>
-					<option value="feedback">Feedback</option>
-					<option value="other">Other</option>
-				</select><br/>
+			<table>
+				<tr>
+					<td>Name: </td>
+					<td><input type="text" name="name" /><br/></td>
+				</tr>
+				<tr>
+					<td>Email: </td>
+					<td><input type="text" name="email" /><br/></td>
+				</tr>
+				<tr>
+					<td>Phone: </td>
+					<td><input type="text" name="phone" /><br/></td>
+				</tr>
+				<tr>
+					<td>Reason for Inquiry: </td>
+						<td><select name="reasonForInquiry">
+							<option value="catering">Catering</option>
+							<option value="privateParty">Private Party</option>
+							<option value="feedback">Feedback</option>
+							<option value="other">Other</option>
+							</select><br/>
+						</td>
+				</tr>
+			</table>
+			
 			Additional Information:
 				<textarea name="additionalInfo"></textarea><br/>
 			Have you been to the restaurant? 
