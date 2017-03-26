@@ -11,19 +11,19 @@
 		<form action="fakePage.html" method="POST">
 			<table>
 				<tr>
-					<td>Name: </td>
+					<td style="text-align: right;">Name: </td>
 					<td><input type="text" name="name" /><br/></td>
 				</tr>
 				<tr>
-					<td>Email: </td>
+					<td style="text-align: right;">Email: </td>
 					<td><input type="text" name="email" /><br/></td>
 				</tr>
 				<tr>
-					<td>Phone: </td>
+					<td style="text-align: right;">Phone: </td>
 					<td><input type="text" name="phone" /><br/></td>
 				</tr>
 				<tr>
-					<td>Reason for Inquiry: </td>
+					<td style="text-align: right;">Reason for Inquiry: </td>
 						<td><select name="reasonForInquiry">
 							<option value="catering">Catering</option>
 							<option value="privateParty">Private Party</option>
@@ -32,20 +32,43 @@
 							</select><br/>
 						</td>
 				</tr>
-			</table>
 			
-			Additional Information:
-				<textarea name="additionalInfo"></textarea><br/>
-			Have you been to the restaurant? 
-				<input type="radio" name="visit" value="no" checked/>No
-				<input type="radio" name="visit" value="yes" />Yes<br/>
-			Best days to contact you:
-				<input type="checkbox" name="day" value="monday" />M
-				<input type="checkbox" name="day" value="tuesday" />T
-				<input type="checkbox" name="day" value="wednesday" />W
-				<input type="checkbox" name="day" value="thursday" />R
-				<input type="checkbox" name="day" value="friday" />F<br/>
-			<input type="submit" value="Submit Request" />
+				<tr>
+					<td style="text-align: right;">
+						Additional Information:
+					</td>
+					<td>
+						<textarea name="additionalInfo"></textarea><br/>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align: right;">
+						Have you been to the restaurant?
+					</td>
+					<td>
+						<input type="radio" name="visit" value="no" checked/>No
+						<input type="radio" name="visit" value="yes" />Yes<br/>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align: right;">
+						Best days to contact you:
+					</td>
+					<td>
+						<input type="checkbox" name="day" value="monday" />M
+						<input type="checkbox" name="day" value="tuesday" />T
+						<input type="checkbox" name="day" value="wednesday" />W
+						<input type="checkbox" name="day" value="thursday" />R
+						<input type="checkbox" name="day" value="friday" />F<br/>
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>
+					<input type="submit" value="Submit Request" />
+					</td>
+				</tr>
+			</table>
 		</form>
 		<hr/>
 		<h4 style="text-align: center;">78345 Anywhere Rd., Smithtown, MI, 41771</h4>
