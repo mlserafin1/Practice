@@ -1,0 +1,11 @@
+.green {
+		color: green;
+		}
+		
+.middle {
+		text-align: center;
+		}
+			
+.right {
+		text-align: right;
+		}

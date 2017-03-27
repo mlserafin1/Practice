@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Home Page</title>
+	<style>
+			.middle {
+				text-align: center;
+				}
+			
+			.right {
+				text-align: right;
+				}
+		</style>
+		<link href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\restaurantStyles"
+				rel="stylesheet"
+				type="text/css" />
 	</head>
 	<body>
-		<h1 style="text-align:center;">Cha-Cha's!</h1><hr/>
-		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/home">Home</a>
-		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/menu">Menu</a>
-		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant/contactUs">Contact Us</a><hr/>
+		<h1 class="middle green">Cha-Cha's!</h1><hr/>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\home">Home</a>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\menu">Menu</a>
+		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\contactUs">Contact Us</a><hr/>
 		<p style="text-align: center;">
 			<img style=width:450px;height:150px;
 			src="http://rudymaxasworld.com/wp-content/uploads/2016/09/Restaurant-22.jpg"/>
@@ -15,14 +25,14 @@
 		<table>
 			<tr>
 				<td>
-					<p style="text-align: center;">
+					<p class="middle">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla eu libero ut posuere. Vivamus ullamcorper, mi et faucibus molestie, justo lacus dictum neque, venenatis fringilla eros tortor id lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi tempus vulputate nulla, et commodo nisl egestas ut. Ut rhoncus fermentum turpis, vel semper justo gravida at. Nullam vulputate lacus in ex gravida auctor. Praesent ullamcorper lacus et nulla fringilla lobortis. Cras luctus massa eget quam bibendum, id sagittis orci volutpat. Donec id pellentesque sem. Vivamus quis viverra ipsum, non lacinia enim. Quisque dapibus elementum faucibus. Sed dignissim finibus velit, quis vulputate ipsum dapibus eget. Mauris in aliquet eros. Quisque at quam nec nisl tristique bibendum.
 					</p>
 				</td>
 			</tr>
 		</table><hr/>
-		<h4 style="text-align: center;">78345 Anywhere Rd., Smithtown, MI, 41771</h4>
-		<h4 style="text-align: center;">(517) 874-1837</h4>
+		<h4 class="middle">78345 Anywhere Rd., Smithtown, MI, 41771</h4>
+		<h4 class="middle">(517) 874-1837</h4>
 	</body>
 	
 </html>
