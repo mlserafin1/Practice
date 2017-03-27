@@ -1,3 +1,14 @@
 .green{
 			color: green;
 		}
+
+#cover{
+			background-image: url("http://target.scene7.com/is/image/Target/15559149?wid=450&hei=450&fmt=pjpeg");
+			background-repeat: no-repeat;
+			margin: auto;
+		}
+
+.italic{
+			font-style: italic;
+		}
+		
