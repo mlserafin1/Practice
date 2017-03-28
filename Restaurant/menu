@@ -15,16 +15,16 @@
 				rel="stylesheet"
 				type="text/css" />
 	</head>
-	<body>
-		<h1 class="middle green">Cha-Cha's!</h1><hr/>
+	<body class="blue">
+		<h1 class="middle green name">Cha-Cha's!</h1><hr/>
 		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\home">Home</a>
 		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\menu">Menu</a>
 		<a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\contactUs">Contact Us</a><hr/>
 		<table>
 			<tr>
-				<th>Burgers and Fries</th>
-				<th>Hot Dogs and Chips</th>
-				<th>Italian Sausage and Peppers</th>
+				<th style="font-size: larger">Burgers and Fries</th>
+				<th style="font-size: larger">Hot Dogs and Chips</th>
+				<th style="font-size: larger">Italian Sausage and Peppers</th>
 			</tr>
 			<tr class="middle">
 				<td>
@@ -38,9 +38,9 @@
 				</td>
 			</tr>
 			<tr>
-				<th>Tenderloin Sandwich and Chips</th>
-				<th>House Salad</th>
-				<th>Brisker Sandwich and Fries</th>
+				<th style="font-size: larger">Tenderloin Sandwich and Chips</th>
+				<th style="font-size: larger">House Salad</th>
+				<th style="font-size: larger">Brisker Sandwich and Fries</th>
 			</tr>
 			<tr class="middle">
 				<td>

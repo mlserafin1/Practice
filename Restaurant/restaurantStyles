@@ -9,3 +9,15 @@
 .right {
 		text-align: right;
 		}
+		
+.name {
+		font-family: 'Trebuchet MS';
+		}
+		
+.blue {
+		background-color: dodgerBlue;
+		}
+		
+.required {
+		font-weight: bold;
+		}
