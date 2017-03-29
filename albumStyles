@@ -12,3 +12,35 @@
 			font-style: italic;
 		}
 		
+a {
+  font-family: monospace;
+  text-decoration: none;
+  font-weight: none;
+}
+
+a:link {
+  color: Blue;
+}
+
+a:visited {
+  color: GoldenRod;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: Red;
+  font-family: monospace;
+  background-color: #0abab5;
+}
+
+a:active {
+  font-weight: bold;
+}
+
+tbody td {
+			font-style: italic;
+			}
+		
+table {
+		background-color: #0abab5;
+		}
