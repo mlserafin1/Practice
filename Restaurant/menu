@@ -54,6 +54,30 @@
 				</td>
 			</tr>
 		</table>
+		<table id="tmid";>
+			<thead>
+				<tr>
+					<td>Beverages</td>
+				</tr>
+			<tbody>
+				<tr>
+					<td>Root Beer</td>
+					<td>$3.00</td>
+				</tr>
+				<tr>
+					<td>Bottled Water</td>
+					<td>$1.25</td>
+				</tr>
+				<tr>
+					<td>Lemonade</td>
+					<td>$1.00</td>
+				</tr>
+				<tr>
+					<td>Iced Tea</td>
+					<td>$1.25</td>
+				</tr>
+			</tbody>
+		</table>
 		<hr/>
 		<h4 class="middle">78345 Anywhere Rd., Smithtown, MI, 41771</h4>
 		<h4 class="middle">(517) 874-1837</h4>
