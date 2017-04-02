@@ -14,19 +14,17 @@
 		<link href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\restaurantStyles"
 				rel="stylesheet"
 				type="text/css" />
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet"
-			  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+					<!-- Latest compiled and minified CSS -->
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-		<!-- Optional theme -->
-		<link rel="stylesheet"
-			  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"/>
+			<!-- jQuery library -->
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 
-		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">
-		</script>
+			<!-- Latest compiled JavaScript -->
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	</head>
 	<body>
+		<noscript>Your browser does not support JavaScript!</noscript>
 		<h1 class="middle green name">Cha-Cha's!</h1><hr/>
 		<ul class="nav nav-pills">
 		<li><a href="C:\Users\dell\Desktop\GuildProgramsandFiles\repos\Practice\Restaurant\home"><span class="glyphicon glyphicon-home"> Home</span></a></li>
