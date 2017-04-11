@@ -6,32 +6,35 @@
 		<script type="text/JavaScript" src="AuditionProblem.js"></script>
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 			rel="stylesheet" type="text/css" />
+			<style>
+				.top-buffer { 
+				margin-top:20px; 
+				}
+			</style>
 </head>
 <body>
 	<div class="container">
-		<table>
-			<tr>
-				<td>Starting Number</td>
-				<td><input type="number" id="start" /></td>
-			</tr>
-			<tr>
-				<td>Ending Number</td>
-				<td><input type="number" id="end" /></td>
-			</tr>
-			<tr>
-				<td>Step</td>
-				<td><input type="number" id="step" /></td>
-			</tr>
-			<tr>
-				<td></td>
-				<td><button onclick="displayEvens();">Display Evens</button></td>
-			</tr>
-		</table>
+			<div class="row top-buffer">
+				<div class="col-xs-2 text-right">Starting Number: </div>
+				<div class="col-xs-3"><input type="number" id="start" /></div>
+			</div>
+			<div class="row top-buffer">
+				<div class="col-xs-2 text-right">Ending Number: </div>
+				<div class="col-xs-3"><input type="number" id="end" /></div>
+			</div>
+			<div class="row top-buffer">
+				<div class="col-xs-2 text-right">Step: </div>
+				<div class="col-xs-3"><input type="number" id="step" /></div>
+			</div>
+			<div class="row top-buffer">
+				<div class="col-xs-2 text-right"></div>
+				<div class="col-xs-3"><button onclick="displayEvens();">Display Evens</button></div>
+			</div>
 	</div>
 	<div class="container">
-		<div class="row">
-			<div class="col-xs-2">Results:</div>
-			<div class="col-xs-4"><span id="test"></span></div>
+		<div class="row top-buffer">
+			<div class="col-xs-2 text-right">Results: </div>
+			<div class="col-xs-3"><span id="test"></span></div>
 		</div>
 	</div>
 </body>
