@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+ 
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Audition Trial Using DOM Events and Management</title>
+		<script type="text/JavaScript" src="AuditionProblem.js"></script>
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+			rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div class="container">
+		<table>
+			<tr>
+				<td>Starting Number</td>
+				<td><input type="number" id="start" /></td>
+			</tr>
+			<tr>
+				<td>Ending Number</td>
+				<td><input type="number" id="end" /></td>
+			</tr>
+			<tr>
+				<td>Step</td>
+				<td><input type="number" id="step" /></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><button onclick="displayEvens();">Display Evens</button></td>
+			</tr>
+		</table>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-2">Results:</div>
+			<div class="col-xs-4"><span id="test"></span></div>
+		</div>
+	</div>
+</body>
+</html>

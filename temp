@@ -1,0 +1,66 @@
+for (var i = 0; i < 100; i++){
+    console.log(Math.ceil(Math.random() * (1+6-1)));
+}
+function rollDice() {
+    return Math.ceil(Math.random() * (1 + 6 - 1));
+}
+ 
+for (var i = 0; i < 100; i++) {
+    console.log(rollDice());
+}
+
+var team1=new Array();
+var team2=new Array();
+
+for (var i=0; i<friends.length;i++){
+	if (i%2 == 0){
+	team1.push(friends[i]);
+	}
+	else{
+	team2.push(friends[i]);
+	}
+}
+
+var team1=new Array();
+var team2=new Array();
+
+
+for (var i=0; i<friends.length;i++){
+	if (i%2 == 0){
+	team1.unshift(friends[i]);
+	}
+	else{
+	team2.unshift(friends[i]);
+	}
+}
+
+
+
+var numList=[-1,-9,3,2,-14,-12];
+
+function findMax(group){
+var temp=group[0];
+for(var i=0; i<group.length;i++){
+	if(group[i]>=temp){
+		temp=group[i];
+	}
+}
+return temp;
+}
+
+var numList=[1,2,3];
+
+function sumOfRange(group){
+var temp=0;
+for(var i=0; i<group.length;i++){
+	temp=temp+group[i];
+	}
+return temp;
+}
+
+
+
+
+
+
+
