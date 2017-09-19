@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc\obj\Debug\StringCalc.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc\bin\Debug\StringCalc.dll
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc\bin\Debug\StringCalc.pdb
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc\obj\Debug\StringCalc.dll
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc\obj\Debug\StringCalc.pdb

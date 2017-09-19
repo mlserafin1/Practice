@@ -1,0 +1,7 @@
+C:\curriculum\DDWA\04-DB-Access\CodeSamples\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\ADO-Stored-Procedures\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\ADO-Stored-Procedures\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\ADO-Stored-Procedures\02B_ADO_Stored_Procedures\bin\Debug\02B_ADO_Stored_Procedures.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\ADO-Stored-Procedures\02B_ADO_Stored_Procedures\obj\Debug\02B_ADO_Stored_Procedures.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\ADO-Stored-Procedures\02B_ADO_Stored_Procedures\obj\Debug\02B_ADO_Stored_Procedures.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\ADO-Stored-Procedures\02B_ADO_Stored_Procedures\obj\Debug\02B_ADO_Stored_Procedures.pdb

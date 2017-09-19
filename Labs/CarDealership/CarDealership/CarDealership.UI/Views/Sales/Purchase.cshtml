@@ -1,0 +1,114 @@
+﻿@model CarDealership.UI.Models.PurchaseViewModel
+
+@{
+    ViewBag.Title = "Purchase Vehicle";
+}
+
+<h2>Purchase Vehicle</h2>
+<div class="container" style="border:1px solid;">
+    <div class="row">
+        <div class="col-xs-3" style="margin-left:20px; margin-top:5px">
+            <p>@Model.Vehicle.Year @Model.Vehicle.Make @Model.Vehicle.Model</p>
+        </div>
+        <div class="col-xs-9"></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-3">
+            <p><img src="@Url.Content("~/Images/" + Model.Vehicle.PictureFileName)" /></p>
+        </div>
+        <div class="col-xs-3">
+            <p>Body Style: @Model.Vehicle.BodyStyle</p>
+            <p>Trans: @Model.Vehicle.Transmission</p>
+            <p>Color: @Model.Vehicle.Color</p>
+        </div>
+        <div class="col-xs-3">
+            <p>Interior: @Model.Vehicle.Interior</p>
+            <p>Mileage: @Model.Vehicle.Mileage</p>
+            <p>VIN #: @Model.Vehicle.Vin</p>
+        </div>
+        <div class="col-xs-3">
+            <p>Sale Price: $@Model.Vehicle.Price</p>
+            <p>MSRP: $@Model.Vehicle.Msrp</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-3"></div>
+        <div class="col-xs-9">
+            <p>Description: @Model.Vehicle.Description</p>
+        </div>
+    </div>
+</div>
+<br/>
+<h2>Sales Information</h2>
+<br/>
+
+        @using (Html.BeginForm("Purchase", "Sales", FormMethod.Post, new { enctype = "multipart/form-data", id = "frmAddPurchase" }))
+        {
+            @Html.ValidationSummary()
+            <div class="row">
+                <div class="col-xs-3">
+                    
+                    <div class="form-group">
+                        <label>Name</label>
+                        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Email</label>
+                        @Html.TextBoxFor(m => m.Customer.Email, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Street 1</label>
+                        @Html.TextBoxFor(m => m.Customer.Address1, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>City</label>
+                        @Html.TextBoxFor(m => m.Customer.City, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Zipcode</label>
+                        @Html.TextBoxFor(m => m.Customer.Zip, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-xs-3">
+                    <div class="form-group">
+                        <label>Phone</label>
+                        @Html.TextBoxFor(m => m.Customer.Phone, new { @class = "form-control" })
+                    </div>
+                    <br /><br /><br />
+                    <div class="form-group" style="margin-top:15px;">
+                        <label>Street 2</label>
+                        @Html.TextBoxFor(m => m.Customer.Address2, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group" style="margin-top:15px;">
+                        <label>State</label>
+                        @Html.DropDownListFor(m => m.Customer.State, new List<SelectListItem>
+                                                                           {
+                                                                                new SelectListItem { Text="AK", Value="AK" },
+                                                                                new SelectListItem { Text="OH", Value="OH" },
+                                                                                new SelectListItem { Text="MI", Value="MI" },
+                                                                                new SelectListItem { Text="SC", Value="SC" },
+                                                                           },
+                                                                           new { @class = "form-control" })
+                    </div>
+                </div>
+            </div>
+                <hr />
+                <div class="row">
+                    <div class="col-xs-3">
+                        <div class="form-group">
+                            <label>Purchase Price</label>
+                            @Html.TextBoxFor(m => m.Purchase.Price, new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="col-xs-3">
+                        <div class="form-group">
+                            <label>Purchase Type</label>
+                            @Html.DropDownListFor(m => m.Purchase.PurchaseTypeId, Model.PurchasesTypes, new { @class = "form-control" })
+                        </div>
+                    </div>
+                </div>@Html.HiddenFor(m=>m.Vehicle.VehicleId)
+            @Html.HiddenFor(m=>m.Vehicle.Msrp)
+            @Html.HiddenFor(m=>m.Vehicle.Price)
+                <button class="btn btn-primary">Save</button>
+        }
+   

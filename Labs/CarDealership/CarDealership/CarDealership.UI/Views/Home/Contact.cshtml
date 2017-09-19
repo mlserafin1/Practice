@@ -1,0 +1,62 @@
+﻿@model CarDealership.Models.Tables.ContactInquiry
+@{
+    ViewBag.Title = "Contact Us";
+}
+<h2>@ViewBag.Title</h2>
+<h3 style="color:red">@ViewBag.Confirmation</h3>
+<div class="col-xs-6">
+    @using (Html.BeginForm("AddInquiry", "Home", FormMethod.Post, new { enctype = "multipart/form-data", id = "frmContactInquiry" }))
+    {
+        @Html.ValidationSummary()
+        <div class="form-group">
+            <label>Name</label>
+            @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        </div>
+            <div class="form-group">
+                <label>Email</label>
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Phone</label>
+                @Html.TextBoxFor(m => m.Phone, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Message</label>
+                <textarea id="message" name="message" class="form-control input-md" style="width:300px; height:100px;">@if (ViewBag.Vin != null){<text>Regarding VIN #: </text>@ViewBag.Vin}</textarea>
+            </div>
+            <button class="btn btn-primary">Submit</button>
+    }
+</div>
+<div class="col-xs-6">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.8641771262223!2d-81.52918058417833!3d41.07196147929436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8830d63d2a71d14b%3A0xbfa59672f7fb282f!2s526+S+Main+St+%23609%2C+Akron%2C+OH+44311!5e0!3m2!1sen!2sus!4v1500060205641" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <address>
+        526 S Main St #609<br/>
+        Akron, OH 44311
+    </address>
+    <p>Sales: 111-111-1111<br/>Service: 111-111-1112</p>
+</div>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $('#frmContactInquiry').validate({
+                rules: {
+                    'Name': {
+                        required: true
+                    },
+                    'Email': {
+                        required: false,
+                        email: true
+                    },
+                    'Phone': {
+                        required: true
+                    },
+                    'message': {
+                        required: true
+                    }
+                }
+             });
+        });
+    </script>
+}

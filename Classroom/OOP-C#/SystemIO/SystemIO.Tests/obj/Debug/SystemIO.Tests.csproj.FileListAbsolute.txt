@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\bin\Debug\SystemIO.Tests.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\bin\Debug\SystemIO.Tests.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\bin\Debug\SystemIO.UI.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\bin\Debug\SystemIO.UI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\bin\Debug\SystemIO.UI.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\obj\Debug\SystemIO.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\obj\Debug\SystemIO.Tests.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.Tests\obj\Debug\SystemIO.Tests.pdb

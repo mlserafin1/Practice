@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Data.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.UI\bin\Debug\FlooringMastery.Data.pdb

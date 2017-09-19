@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\LeaderBoard\LeaderBoard\LeaderBoard\bin\Debug\LeaderBoard.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\LeaderBoard\LeaderBoard\LeaderBoard\bin\Debug\LeaderBoard.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\LeaderBoard\LeaderBoard\LeaderBoard\bin\Debug\LeaderBoard.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\LeaderBoard\LeaderBoard\LeaderBoard\obj\Debug\LeaderBoard.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\LeaderBoard\LeaderBoard\LeaderBoard\obj\Debug\LeaderBoard.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\LeaderBoard\LeaderBoard\LeaderBoard\obj\Debug\LeaderBoard.pdb

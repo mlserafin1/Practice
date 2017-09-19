@@ -1,0 +1,38 @@
+C:\Users\rscla\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\rscla\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\rscla\Documents\Visual Studio 2017\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\rscla\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\rscla\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\rscla\Documents\Visual Studio 2017\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\Contacts.exe.config
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\Contacts.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\Contacts.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\Dapper.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\Dapper.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\obj\Debug\Contacts.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\obj\Debug\Contacts.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\EntityFramework.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\EntityFramework.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\Contacts\Contacts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\Dapper.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\EntityFramework.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\Dapper.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\EntityFramework.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.Migrations.initDB.resources
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.Migrations.MiddleName.resources
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.Migrations.ContactReqsAndLengths.resources
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.Migrations.MiddleNameLength.resources
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.Migrations.UpdatedAddressModel.resources
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.Migrations.StreetTypeChange.resources
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Contacts\Contacts\obj\Debug\Contacts.Migrations.v7.resources

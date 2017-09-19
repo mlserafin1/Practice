@@ -1,0 +1,8 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.UI.exe.config
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.BLL.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.pdb

@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.dll
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.pdb
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.dll
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.pdb

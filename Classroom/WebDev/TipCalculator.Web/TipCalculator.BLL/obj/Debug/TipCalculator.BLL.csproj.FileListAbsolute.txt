@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\TipCalculator.Web\TipCalculator.BLL\bin\Debug\TipCalculator.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\TipCalculator.Web\TipCalculator.BLL\bin\Debug\TipCalculator.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\TipCalculator.Web\TipCalculator.BLL\bin\Debug\TipCalculator.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\TipCalculator.Web\TipCalculator.BLL\bin\Debug\TipCalculator.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\TipCalculator.Web\TipCalculator.BLL\obj\Debug\TipCalculator.BLL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\TipCalculator.Web\TipCalculator.BLL\obj\Debug\TipCalculator.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\TipCalculator.Web\TipCalculator.BLL\obj\Debug\TipCalculator.BLL.pdb

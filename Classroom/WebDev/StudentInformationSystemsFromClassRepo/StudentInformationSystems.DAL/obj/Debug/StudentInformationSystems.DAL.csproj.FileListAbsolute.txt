@@ -1,0 +1,14 @@
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.DAL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.DAL.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.Models.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.Models.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.DAL\obj\Debug\StudentInformationSystems.DAL.csprojResolveAssemblyReference.cache
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.DAL\obj\Debug\StudentInformationSystems.DAL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.DAL\obj\Debug\StudentInformationSystems.DAL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.DAL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.DAL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.DAL\bin\Debug\StudentInformationSystems.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.DAL\obj\Debug\StudentInformationSystems.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.DAL\obj\Debug\StudentInformationSystems.DAL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.DAL\obj\Debug\StudentInformationSystems.DAL.pdb

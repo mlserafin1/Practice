@@ -1,0 +1,5 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.dll
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\CodeSamples\GuessingGame\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.pdb

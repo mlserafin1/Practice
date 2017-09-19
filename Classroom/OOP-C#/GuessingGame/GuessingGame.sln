@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame", "GuessingGame.csproj", "{6AB3CAF6-6822-454B-8B68-CD45C4D513D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame.BLL", "..\GuessingGame.BLL\GuessingGame.BLL.csproj", "{75EA960A-4B1D-4F40-9121-94FB9F4B48CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame.Tests", "GuessingGame.Tests\GuessingGame.Tests.csproj", "{8D6879DC-92CB-4B53-8D62-EDB8FAB0A7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB3CAF6-6822-454B-8B68-CD45C4D513D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB3CAF6-6822-454B-8B68-CD45C4D513D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB3CAF6-6822-454B-8B68-CD45C4D513D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB3CAF6-6822-454B-8B68-CD45C4D513D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EA960A-4B1D-4F40-9121-94FB9F4B48CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EA960A-4B1D-4F40-9121-94FB9F4B48CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EA960A-4B1D-4F40-9121-94FB9F4B48CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EA960A-4B1D-4F40-9121-94FB9F4B48CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6879DC-92CB-4B53-8D62-EDB8FAB0A7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6879DC-92CB-4B53-8D62-EDB8FAB0A7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6879DC-92CB-4B53-8D62-EDB8FAB0A7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6879DC-92CB-4B53-8D62-EDB8FAB0A7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

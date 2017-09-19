@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\ManningsGames\ManningsGames.DAL\bin\Debug\ManningsGames.DAL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\ManningsGames\ManningsGames.DAL\bin\Debug\ManningsGames.DAL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\ManningsGames\ManningsGames.DAL\bin\Debug\ManningsGames.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\ManningsGames\ManningsGames.DAL\bin\Debug\ManningsGames.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\ManningsGames\ManningsGames.DAL\obj\Debug\ManningsGames.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\ManningsGames\ManningsGames.DAL\obj\Debug\ManningsGames.DAL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\ManningsGames\ManningsGames.DAL\obj\Debug\ManningsGames.DAL.pdb

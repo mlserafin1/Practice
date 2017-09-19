@@ -1,0 +1,151 @@
+﻿@model CarDealership.UI.Models.AddVehicleViewModel
+@{
+    ViewBag.Title = "AddVehicle";
+}
+
+<h2>Add Vehicle</h2>
+
+@using (Html.BeginForm("AddVehicle", "Admin", FormMethod.Post, new { enctype = "multipart/form-data", id = "frmAddVehicle" }))
+{
+    @Html.ValidationSummary()
+    <div class="row">
+        <div class="col-xs-4">
+
+            <div class="form-group">
+                <label>Make</label>
+                @Html.DropDownList("MakeId", Model.Makes, "-Select-", new { @class = "form-control", onchange = "search()", id = "make" })
+            </div>
+            <div class="form-group block">
+                <label>Type</label>
+                @Html.DropDownListFor(m => m.Vehicle.IsNew, new List<SelectListItem>
+                                                                           {
+                                                                                new SelectListItem { Text="New", Value="true" },
+                                                                                new SelectListItem { Text="Used", Value="false" }
+                                                                           },
+                                                                           new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Year</label>
+                @Html.TextBoxFor(m => m.Vehicle.Year, new { @class = "form-control" })
+            </div>
+            <div class="form-group block">
+                <label>Color</label>
+                @Html.DropDownListFor(m => m.Vehicle.Color, new List<SelectListItem>
+                                                                           {
+                                                                                new SelectListItem { Text="Green", Value="Green" },
+                                                                                new SelectListItem { Text="Blue", Value="Blue" },
+                                                                                new SelectListItem { Text="Black", Value="Black" },
+                                                                                new SelectListItem { Text="Red", Value="Red" },
+                                                                                new SelectListItem { Text="Yellow", Value="Yellow" },
+                                                                                new SelectListItem { Text="White", Value="White" }
+                                                                           },
+                                                                           new { @class = "form-control" })
+
+            </div>
+            <div class="form-group">
+                <label>Mileage</label>
+                @Html.TextBoxFor(m => m.Vehicle.Mileage, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>MSRP</label>
+                @Html.TextBoxFor(m => m.Vehicle.Msrp, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="col-xs-4">
+            <div class="form-group block">
+                <label>Model</label>
+                <select id="ModelId" name="Vehicle.ModelId" style="width: 300px; height: 35px;">
+                </select>
+      
+            </div>
+            <div class="form-group block">
+                <label>Body Style</label>
+                @Html.DropDownListFor(m => m.Vehicle.BodyStyle, new List<SelectListItem>
+                                                                           {
+                                                                                new SelectListItem { Text="Car", Value="Car" },
+                                                                                new SelectListItem { Text="SUV", Value="SUV" },
+                                                                                new SelectListItem { Text="Truck", Value="Truck" },
+                                                                                new SelectListItem { Text="Van", Value="Van" }
+                                                                           },
+                                                                           new { @class = "form-control" })
+                
+            </div>
+            <div class="form-group block">
+                <label>Transmission</label>
+                @Html.DropDownListFor(m => m.Vehicle.Transmission, new List<SelectListItem>
+                                                                           {
+                                                                                new SelectListItem { Text="Automatic", Value="Automatic" },
+                                                                                new SelectListItem { Text="Manual", Value="Manual" }
+                                                                           },
+                                                                           new { @class = "form-control" })
+            </div>
+            <div class="form-group block">
+                <label>Interior</label>
+                @Html.DropDownListFor(m => m.Vehicle.Interior, new List<SelectListItem>
+                                                                           {
+                                                                                new SelectListItem { Text="Black", Value="Black" },
+                                                                                new SelectListItem { Text="White", Value="White" },
+                                                                                new SelectListItem { Text="Tan", Value="Tan" },
+                                                                                new SelectListItem { Text="Gray", Value="Gray" },
+                                                                                new SelectListItem { Text="Brown", Value="Brown" }
+                                                                           },
+                                                                           new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Vin</label>
+                @Html.TextBoxFor(m => m.Vehicle.Vin, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Sale Price</label>
+                @Html.TextBoxFor(m => m.Vehicle.Price, new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-8">
+            <div class="form-group">
+                <label>Description</label>
+                @Html.TextAreaFor(m => m.Vehicle.Description, new { @class = "form-control" })
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-xs-3">
+            <label>Picture:</label>
+            @Html.TextBoxFor(m => m.UploadedFile,
+             new { type = "file", @class = "form-control" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-1">
+            <button class="btn btn-primary" type="submit">Save</button>
+        </div>
+    </div>
+
+    
+}
+
+@section Scripts
+{
+    <script>
+
+        function search() {
+            $('#ModelId').empty();
+            $.ajax({
+                type: 'GET',
+                url: 'http://localhost:54737/api/admin/searchMakes/' + $('#make').val(),
+                success: function (results) {
+
+                    $.each(results, function (index, vehicle) {
+                        var html = '<option value="' + vehicle.ModelId + '">' + vehicle.ModelName + '</option>';
+                        $('#ModelId').append(html.toString());
+                        console.log($('#ModelId').val());
+                    });
+                },
+                error: function () {
+                    alert('Error, try again later!')
+                }
+            });
+        }
+    </script>
+}

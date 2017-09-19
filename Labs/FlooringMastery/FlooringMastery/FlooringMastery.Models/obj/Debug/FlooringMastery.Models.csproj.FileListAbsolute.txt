@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\FlooringMastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb

@@ -1,0 +1,12 @@
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\obj\Debug\StudentInformationSystems.csprojResolveAssemblyReference.cache
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.exe.config
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.BLL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.Models.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.DAL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.BLL.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.Models.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\bin\Debug\StudentInformationSystems.DAL.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\obj\Debug\StudentInformationSystems.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems\obj\Debug\StudentInformationSystems.pdb

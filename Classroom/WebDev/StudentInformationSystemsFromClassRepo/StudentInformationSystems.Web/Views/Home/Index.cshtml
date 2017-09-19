@@ -1,0 +1,46 @@
+﻿@model IEnumerable<StudentInformationSystems.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@Html.ActionLink("Create","Create","Home")
+
+@if (Model.Any())
+{
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GPA)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GPA)
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", "Home", new { id = item.Id }, null)
+                    @Html.ActionLink("Edit", "Edit", "Home", new {id = item.Id}, null)
+                </td>
+            </tr>
+        }
+
+    </table>
+
+}
+else
+{
+    <h2>No Students yo</h2>
+}

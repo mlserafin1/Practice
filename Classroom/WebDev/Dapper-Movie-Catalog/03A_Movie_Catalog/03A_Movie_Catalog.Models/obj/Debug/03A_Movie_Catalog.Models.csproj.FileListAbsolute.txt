@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Models\bin\Debug\03A_Movie_Catalog.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Models\bin\Debug\03A_Movie_Catalog.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Models\obj\Debug\03A_Movie_Catalog.Models.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Models\obj\Debug\03A_Movie_Catalog.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Models\obj\Debug\03A_Movie_Catalog.Models.pdb

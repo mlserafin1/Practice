@@ -1,0 +1,23 @@
+﻿@model ManningsGames.Models.VideoGame
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<div class="row">
+    <h2>@Model.Name</h2>
+    <div class="col-md-3">
+        <img src="@Model.CoverUrl" alt="Cover Art" style="width:100%" />
+    </div>
+    <div class="col-md-9">
+        <p>@Model.ESRB</p>
+        <p>@Model.Cost.ToString("c")</p>
+        <p>Release Date: @Model.ReleaseDate.ToShortDateString()</p>
+        <p>@Model.Qty in stock</p>
+        <button class="btn btn-success">Buy</button>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12"></div>
+</div>
+

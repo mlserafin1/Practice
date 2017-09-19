@@ -1,0 +1,90 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csc.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csc.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csi.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csi.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\vbc.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\MyFirstWebAPI.dll.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\MyFirstWebAPI.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\MyFirstWebAPI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\obj\Debug\MyFirstWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\obj\Debug\MyFirstWebAPI.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\obj\Debug\MyFirstWebAPI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Cors.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csc.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csc.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csi.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\csi.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\vbc.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\MyFirstWebAPI.dll.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\MyFirstWebAPI.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\MyFirstWebAPI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Cors.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\obj\Debug\MyFirstWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\obj\Debug\MyFirstWebAPI.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyFirstWebAPI\MyFirstWebAPI\obj\Debug\MyFirstWebAPI.pdb

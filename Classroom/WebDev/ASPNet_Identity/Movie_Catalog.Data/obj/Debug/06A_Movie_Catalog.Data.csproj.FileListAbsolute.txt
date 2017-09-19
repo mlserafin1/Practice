@@ -1,0 +1,9 @@
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\bin\Debug\06A_Movie_Catalog.Data.dll
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\bin\Debug\06A_Movie_Catalog.Data.pdb
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\bin\Debug\06A_Movie_Catalog.Models.dll
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\bin\Debug\Dapper.dll
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\bin\Debug\06A_Movie_Catalog.Models.pdb
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\bin\Debug\Dapper.xml
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\obj\Debug\06A_Movie_Catalog.Data.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\obj\Debug\06A_Movie_Catalog.Data.dll
+D:\Git\Curriculum\dotnet\Data-Driven-Web-Applications\04-CSharp-Database-Interaction\CodeSamples\06A_Movie_Catalog\06A_Movie_Catalog.Data\obj\Debug\06A_Movie_Catalog.Data.pdb

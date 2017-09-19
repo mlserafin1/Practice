@@ -1,0 +1,5 @@
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Models\bin\Debug\StudentInformationSystems.Models.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Models\bin\Debug\StudentInformationSystems.Models.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Models\obj\Debug\StudentInformationSystems.Models.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Models\obj\Debug\StudentInformationSystems.Models.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Models\obj\Debug\StudentInformationSystems.Models.csprojResolveAssemblyReference.cache

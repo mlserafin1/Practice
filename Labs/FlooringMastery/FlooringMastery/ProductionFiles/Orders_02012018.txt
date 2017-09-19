@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1|MLS|MI|5.75|Wood|350|5.15|4.75|1802.50|1662.50|199.237500|3664.237500
+2|Testy Testerson|MI|5.75|Tile|125|3.50|4.15|437.50|518.75|54.984375|1011.234375
+4|Una Otra|OH|6.25|Laminate|230|1.75|2.10|402.50|483.00|55.343750|940.843750
+5|Yet, Another|MI|5.75|Wood|111|5.15|4.75|571.65|527.25|63.186750|1162.086750
+6|Another Order|OH|6.25|Carpet|220|2.25|2.10|495.00|462.00|59.812500|1016.812500

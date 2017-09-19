@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{583FCACA-1C3F-456D-A5DC-9276C718C832}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Contacts</RootNamespace>
+    <AssemblyName>Contacts</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=1.50.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.50.2\lib\net451\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Migrations\201707051349342_initDB.cs" />
+    <Compile Include="Migrations\201707051349342_initDB.Designer.cs">
+      <DependentUpon>201707051349342_initDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707051412463_MiddleName.cs" />
+    <Compile Include="Migrations\201707051412463_MiddleName.Designer.cs">
+      <DependentUpon>201707051412463_MiddleName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707051418255_ContactReqsAndLengths.cs" />
+    <Compile Include="Migrations\201707051418255_ContactReqsAndLengths.Designer.cs">
+      <DependentUpon>201707051418255_ContactReqsAndLengths.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707051420111_MiddleNameLength.cs" />
+    <Compile Include="Migrations\201707051420111_MiddleNameLength.Designer.cs">
+      <DependentUpon>201707051420111_MiddleNameLength.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707051423497_UpdatedAddressModel.cs" />
+    <Compile Include="Migrations\201707051423497_UpdatedAddressModel.Designer.cs">
+      <DependentUpon>201707051423497_UpdatedAddressModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707051431499_StreetTypeChange.cs" />
+    <Compile Include="Migrations\201707051431499_StreetTypeChange.Designer.cs">
+      <DependentUpon>201707051431499_StreetTypeChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707051434340_v7.cs" />
+    <Compile Include="Migrations\201707051434340_v7.Designer.cs">
+      <DependentUpon>201707051434340_v7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Address.cs" />
+    <Compile Include="Models\Contact.cs" />
+    <Compile Include="Data\ContactEntities.cs" />
+    <Compile Include="Data\Repositories\DapperContactsRepository.cs" />
+    <Compile Include="Data\Repositories\EfContactsRepository.cs" />
+    <Compile Include="Models\IContactsRepository.cs" />
+    <Compile Include="Data\Repositories\SPContactsRepository.cs" />
+    <Compile Include="Data\Repositories\ContactsRepository.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201707051349342_initDB.resx">
+      <DependentUpon>201707051349342_initDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707051412463_MiddleName.resx">
+      <DependentUpon>201707051412463_MiddleName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707051418255_ContactReqsAndLengths.resx">
+      <DependentUpon>201707051418255_ContactReqsAndLengths.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707051420111_MiddleNameLength.resx">
+      <DependentUpon>201707051420111_MiddleNameLength.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707051423497_UpdatedAddressModel.resx">
+      <DependentUpon>201707051423497_UpdatedAddressModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707051431499_StreetTypeChange.resx">
+      <DependentUpon>201707051431499_StreetTypeChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707051434340_v7.resx">
+      <DependentUpon>201707051434340_v7.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

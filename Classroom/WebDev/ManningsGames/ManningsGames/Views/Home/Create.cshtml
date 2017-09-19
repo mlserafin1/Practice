@@ -1,0 +1,74 @@
+﻿@model ManningsGames.Models.VideoGame
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@Html.ValidationSummary(true)
+<form action="/Home/Create" method="post">
+    <div class="form-group">
+        <label class="col-xs-3" for="Name">Name:</label>
+        <div class="col-xs-9">
+            @*<input type="text" class="form-control" name="Name" id="Name" />  ctrl+k+c will comment anything that is highlighted  *@
+            @Html.TextBoxFor(model=>model.Name, new { @class="form-control"})
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3" for="Release Date">Release Date:</label>
+        <div class="col-xs-9">
+            @*<input type="text" class="form-control" name="Release Date" id="Release Date" />*@
+            @Html.TextBoxFor(model => model.ReleaseDate, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.ReleaseDate)
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3" for="CoverUrl">CoverUrl:</label>
+        <div class="col-xs-9">
+            @*<input type="text" class="form-control" name="CoverUrl" id="CoverUrl" />*@
+            @Html.TextBoxFor(model => model.CoverUrl, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3" for="Cost">Cost:</label>
+        <div class="col-xs-9">
+            @*<input type="text" class="form-control" name="Cost" id="Cost" />*@
+            @Html.TextBoxFor(model => model.Cost, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Cost)
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3" for="Qty">Qty:</label>
+        <div class="col-xs-9">
+            @*<input type="text" class="form-control" name="Qty" id="Qty" />*@
+            @Html.TextBoxFor(model => model.Qty, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Qty)
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-3" for="ESRB">ESRB:</label>
+        <div class="col-xs-9">
+            <select name="ESRB" id="ESRB" class="form-control">
+                <option value="">None</option>
+                <option value="1">E</option>
+                <option value="2">EC</option>
+                <option value="3">E+10</option>
+                <option value="4">T</option>
+                <option value="5">M</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-xs-9 col-sm-offset-3">
+            <input type="submit" value="Create" class="btn btn-success"/>
+        </div>
+    </div>
+
+</form>

@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\bin\Debug\SG.Calculator.Tests.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\bin\Debug\SG.Calculator.Tests.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\bin\Debug\SG.Calculator.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\bin\Debug\SG.Calculator.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\obj\Debug\SG.Calculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\obj\Debug\SG.Calculator.Tests.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SG.Calculator.BLL\SG.Calculator.Tests\obj\Debug\SG.Calculator.Tests.pdb

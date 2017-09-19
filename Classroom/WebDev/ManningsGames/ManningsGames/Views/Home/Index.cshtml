@@ -1,0 +1,32 @@
+﻿@model List<ManningsGames.Models.VideoGame>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Manning's Game Shop</h2>
+
+<div class="pull-right">
+    @Html.ActionLink("Create","Create","Home") <!--Actionlink, first parameter is the word displayed screen, second is action method being invoked, third can be controller called-->
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th># in Stock</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var game in Model)
+        {
+            <tr>
+                <td>@game.Name</td>
+                <td>@game.Cost.ToString("c")</td>
+                <td>@game.Qty</td>
+                <td>@Html.ActionLink("Details","Detail",new { id = game.Id })</td> <!--second detail is the controller method you are trying to hit-->
+            </tr>
+        }
+    </tbody>
+</table>

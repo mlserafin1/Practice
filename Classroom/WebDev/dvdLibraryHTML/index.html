@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="row" id="dvdList">
+                    <!--<div class="col-md-4 dvdItem" data-dvdId="1">
+                        <h2 class="title">The Matrix</h2>
+                        <h3 class="releaseYear">1999</h3>
+                        <p class="director">Lana Wachowski, Lilly Wachowski</p>
+                        <p class="rating">R</p>
+                        <p class="notes hidden"></p>
+                    </div>
+                         <div class="col-md-4 dvdItem" data-dvdId="2">
+                        <h2 class="title">The Matrix Reloaded</h2>
+                        <h3 class="releaseYear">2003</h3>
+                        <p class="director">Lana Wachowski, Lilly Wachowski</p>
+                        <p class="rating">R</p>
+                        <p class="notes hidden"></p>
+                    </div>
+                         <div class="col-md-4 dvdItem" data-dvdId="3">
+                        <h2 class="title">The Matrix Revolution</h2>
+                        <h3 class="releaseYear">2003</h3>
+                        <p class="director">Lana Wachowski, Lilly Wachowski</p>
+                        <p class="rating">R</p>
+                        <p class="notes hidden"></p>
+                    </div>
+                     <div class="col-md-4 dvdItem" data-dvdId="4">
+                        <h2 class="title">The Matrix Revolution</h2>
+                        <h3 class="releaseYear">2003</h3>
+                        <p class="director">Lana Wachowski, Lilly Wachowski</p>
+                        <p class="rating">R</p>
+                        <p class="notes hidden"></p>
+                    </div>-->
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div id="dvdInfo" data-dvdId="0">
+
+                    <h2 class="title"></h2>
+                    <h3 class="releaseYear"></h3>
+                    <p class="director"></p>
+                    <p class="rating"></p>
+                    <p class="notes"></p>
+                    <button class="btn btn-danger" id="editDvd">
+                            Edit Dvd
+                        </button>
+                    <button class="btn btn-danger" id="deleteDvd">
+                            Delete Dvd
+                        </button>
+                </div>
+                <div id="addDvd">
+                    <form action="" id="frmAddDvd">
+                        <input type="hidden" id="dvdId" name="dvdId">
+                        <div class="form-group">
+                            <label for="title" class="control-label col-md-4">Title</label>
+                            <div class="col-md-8"><input type="text" class="form-control" name="title" id="title"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="releaseYear" class="control-label col-md-4">Release Year</label>
+                            <div class="col-md-8"><input type="text" class="form-control" name="releaseYear" id="releaseYear"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="director" class="control-label col-md-4">Director</label>
+                            <div class="col-md-8"><input type="text" class="form-control" name="director" id="director"></div>
+                        </div>
+                        <div class="form-group">
+                            <label for="rating" class="control-label col-md-4">Rating</label>
+                            <select class="form-control" name="rating" id="rating">
+                                <option value="" disabled selected>--Select Rating--</option>
+                                <option value="1">G</option>
+                                <option value="2">PG</option>
+                                <option value="3">PG-13</option>
+                                <option value="4">R</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="notes" class="control-label col-md-4">Notes:</label>
+                            <div class="col-md-8">
+                                <textarea name="notes" id="notes" cols="30" rows="5" class="form-control"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-8 col-md-offset-4">
+                                <button id="frmAddBtn" class="btn btn-primary">Add Dvd</button>
+                                <button id="frmEditBtn" class="btn btn-danger">Edit Dvd</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- Our Dataservice to hit our API -->
+    <script src="scripts/dataService.js"></script>
+    <!-- Our Mock Dataservice to fake our API calls -->
+    <!--<script src="scripts/mockDataService.js"></script>-->
+    <script src="scripts/main.js"></script>
+</body>
+
+</html>

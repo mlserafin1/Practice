@@ -1,0 +1,15 @@
+﻿@model ContactListWeb.Models.FileUploadViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data", id = "frmUpload" }))
+{
+    <div class="form-group">
+        <label for="UploadedFile">Select File:</label>
+        @Html.TextBoxFor(m => m.UploadedFile, new { type = "file", @class = "form-control" })
+    </div>
+    <button class="btn btn-primary">UploadFile</button>
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <title>DVD Library</title>
+</head>
+
+<body>
+
+    <div class="container" id="display">
+        <ul class="list-group" id="errorMessages"></ul>
+        <div class="row" id="buttonRow" style="margin-top:10px">
+            <div class="col-md-2">
+                <button type="button" id="create-dvd-button" class="btn btn-default">Create DVD</button>
+            </div>
+            <div class="col-md-4 text-right">
+                <button type="button" id="search-button" class="btn btn-default">Search</button>
+            </div>
+            <div class="col-md-2">
+                <select name="" id="dropDownSearchItem">
+                    <option value="category">Search Category</option>
+                    <option value="term">Search Term</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <input type=" text " id="textSearchItem " placeholder="Search Item " />
+            </div>
+        </div>
+        <hr/>
+        <div class="row">
+            <div id="dvdTable">
+                <table class="table table-hover">
+                    <tr>
+                        <th width="25%">Title</th>
+                        <th width="25%">Release Date</th>
+                        <th width="20%">Director</th>
+                        <th width="10%">Rating</th>
+                        <th width="20%"></th>
+                    </tr>
+                    <!--
+                                #3: This holds the list of contacts - we will add rows
+                                dynamically
+                                using jQuery
+                                -->
+                    <tbody id="contentRows"></tbody>
+            </div>
+        </div>
+    </div>
+
+    <div id="createFormDiv" style="display: none">
+        <h2>Create DVD</h2>
+
+        <form class="form-horizontal" role="form" id="add-form">
+            <div class="form-group">
+                <label for="add-title" class="col-md-4 control-label">
+                                    Title:
+                                </label>
+
+                <div class="col-md-8">
+                    <input type="text" class="form-control" id="add-title" placeholder="Title" required/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="add-realease-year" class="col-md-4 control-label">
+                                    Release Year:
+                                </label>
+
+                <div class="col-md-8">
+                    <input type="text" class="form-control" id="add-realease-year" placeholder="Release Year" required/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="add-director" class="col-md-4 control-label">
+                                    Director:</label>
+
+                <div class="col-md-8">
+                    <input type="text" class="form-control" id="add-director" placeholder="Director" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="add-rating" class="col-md-4 control-label">Rating:</label>
+
+                <div class="col-md-8">
+                    <input type="text" class="form-control" id="add-rating" placeholder="Rating" required/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="add-notes" class="col-md-4 control-label">Notes:</label>
+
+                <div class="col-md-8">
+                    <input type="textarea" class="form-control" id="add-notes" placeholder="Notes" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-4 col-md-4">
+
+                    <button type="button" id="dvd-cancel-button" class="btn btn-default" onclick="hideCreateForm()">
+                                        Cancel
+                                    </button>
+                </div>
+                <div class="col-md-4">
+                    <button type="button" id="create-button" class="btn btn-default">
+                                        Create DVD
+                                    </button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+
+
+
+
+
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js "></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js "></script>
+    <script src="home.js "></script>
+</body>
+
+</html>

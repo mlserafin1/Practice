@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Data.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Data.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\CarDealership\CarDealership\CarDealership.Data\obj\Debug\CarDealership.Data.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\CarDealership\CarDealership\CarDealership.Data\obj\Debug\CarDealership.Data.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\CarDealership\CarDealership\CarDealership.Data\obj\Debug\CarDealership.Data.pdb
+C:\Users\dell\Desktop\CarDealershipCopy\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Data.dll
+C:\Users\dell\Desktop\CarDealershipCopy\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Data.pdb
+C:\Users\dell\Desktop\CarDealershipCopy\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Models.dll
+C:\Users\dell\Desktop\CarDealershipCopy\CarDealership\CarDealership\CarDealership.Data\bin\Debug\CarDealership.Models.pdb
+C:\Users\dell\Desktop\CarDealershipCopy\CarDealership\CarDealership\CarDealership.Data\obj\Debug\CarDealership.Data.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\CarDealershipCopy\CarDealership\CarDealership\CarDealership.Data\obj\Debug\CarDealership.Data.dll
+C:\Users\dell\Desktop\CarDealershipCopy\CarDealership\CarDealership\CarDealership.Data\obj\Debug\CarDealership.Data.pdb

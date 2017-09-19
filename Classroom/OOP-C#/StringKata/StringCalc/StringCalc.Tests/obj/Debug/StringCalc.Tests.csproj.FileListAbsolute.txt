@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.Tests.dll
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.Tests.pdb
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.dll
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\bin\Debug\StringCalc.pdb
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.dll
+C:\Users\dell\Desktop\StringKata\StringCalc\StringCalc.Tests\obj\Debug\StringCalc.Tests.pdb

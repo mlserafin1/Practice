@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\bin\Debug\03A_Movie_Catalog.Data.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\bin\Debug\03A_Movie_Catalog.Data.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\bin\Debug\03A_Movie_Catalog.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\bin\Debug\Dapper.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\bin\Debug\03A_Movie_Catalog.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\bin\Debug\Dapper.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\obj\Debug\03A_Movie_Catalog.Data.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\obj\Debug\03A_Movie_Catalog.Data.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\Dapper-Movie-Catalog\03A_Movie_Catalog\03A_Movie_Catalog.Data\obj\Debug\03A_Movie_Catalog.Data.pdb

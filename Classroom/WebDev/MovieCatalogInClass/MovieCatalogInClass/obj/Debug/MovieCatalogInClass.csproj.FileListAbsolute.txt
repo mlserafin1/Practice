@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\bin\Debug\MovieCatalogInClass.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\bin\Debug\MovieCatalogInClass.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\bin\Debug\MovieCatalogInClass.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\bin\Debug\EntityFramework.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\bin\Debug\EntityFramework.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\obj\Debug\MovieCatalogInClass.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\obj\Debug\MovieCatalogInClass.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\obj\Debug\MovieCatalogInClass.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\obj\Debug\MovieCatalogInClass.Migrations.initDB.resources
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MovieCatalogInClass\MovieCatalogInClass\obj\Debug\MovieCatalogInClass.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyContacts\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyContacts\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyContacts\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\WebDev\MyContacts\MyContacts\MyContacts\obj\Debug\MyContacts.pdb

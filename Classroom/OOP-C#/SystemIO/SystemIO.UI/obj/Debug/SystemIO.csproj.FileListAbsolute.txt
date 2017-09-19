@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.UI\bin\Debug\SystemIO.UI.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.UI\bin\Debug\SystemIO.UI.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.UI\bin\Debug\SystemIO.UI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.UI\obj\Debug\SystemIO.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.UI\obj\Debug\SystemIO.UI.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\SystemIO\SystemIO.UI\obj\Debug\SystemIO.UI.pdb

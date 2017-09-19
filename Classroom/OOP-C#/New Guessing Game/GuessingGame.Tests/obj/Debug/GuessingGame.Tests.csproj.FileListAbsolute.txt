@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.dll
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.pdb
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.dll
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.pdb
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.dll
+C:\Users\dell\Desktop\New Guessing Game\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.pdb

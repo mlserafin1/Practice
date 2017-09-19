@@ -1,0 +1,19 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\GuessingGame\Start\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\dell\Desktop\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\dell\Desktop\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\dell\Desktop\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\dell\Desktop\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\dell\Desktop\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\GuessingGame\obj\Debug\GuessingGame.pdb

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vending Machine</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1 style="text-align: center">Vending Machine</h1>
+    <hr/>
+    <div class="container">
+        <div class="col-xs-9">
+            <div class="row">
+                <div class="col-xs-4" style="border:1px solid black" id="item1">
+                    <p style="text-align: left" id="item1Id"></p>
+                    <p style="text-align: center" id="item1Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item1Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item1Qty"></span></p>
+                </div>
+                <div class="col-xs-4" style="border:1px solid black" id="item2">
+                    <p style="text-align: left" id="item2Id"></p>
+                    <p style="text-align: center" id="item2Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item2Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item2Qty"></span></p>
+                </div>
+                <div class="col-xs-4" style="border:1px solid black" id="item3">
+                    <p style="text-align: left" id="item3Id"></p>
+                    <p style="text-align: center" id="item3Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item3Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item3Qty"></span></p>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-xs-4" style="border:1px solid black" id="item4">
+                    <p style="text-align: left" id="item4Id"></p>
+                    <p style="text-align: center" id="item4Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item4Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item4Qty"></span></p>
+                </div>
+                <div class="col-xs-4" style="border:1px solid black" id="item5">
+                    <p style="text-align: left" id="item5Id"></p>
+                    <p style="text-align: center" id="item5Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item5Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item5Qty"></span></p>
+                </div>
+                <div class="col-xs-4" style="border:1px solid black" id="item6">
+                    <p style="text-align: left" id="item6Id"></p>
+                    <p style="text-align: center" id="item6Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item6Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item6Qty"></span></p>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-xs-4" style="border:1px solid black" id="item7">
+                    <p style="text-align: left" id="item7Id"></p>
+                    <p style="text-align: center" id="item7Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item7Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item7Qty"></span></p>
+                </div>
+                <div class="col-xs-4" style="border:1px solid black" id="item8">
+                    <p style="text-align: left" id="item8Id"></p>
+                    <p style="text-align: center" id="item8Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item8Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item8Qty"></span></p>
+                </div>
+                <div class="col-xs-4" style="border:1px solid black" id="item9">
+                    <p style="text-align: left" id="item9Id"></p>
+                    <p style="text-align: center" id="item9Name"></p>
+                    <br/>
+                    <p style="text-align: center">$<span id="item9Price"></span></p>
+                    <br/><br/><br/>
+                    <p style="text-align: center">Quantity Left: <span id="item9Qty"></span></p>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="col-xs-3">
+            <div class="row">
+                <h3 style="text-align: center; margin-left: 25px">Total $ In</h3>
+                <div class="row" style="border:1px solid black; width: 200px; height: 35px; margin-left: 55px">
+                    <h4 style="text-align: center" id="total"></h4>
+                </div>
+                <div class="row" style="margin-top: 8px; margin-left: 55px">
+                    <button type="button" class="btn btn-default" id="dollarButton">Add Dollar</button>
+                    <button type="button" class="btn btn-default" id="quarterButton">Add Quarter</button>
+                </div>
+                <div class="row" style="margin-top: 6px; margin-left: 63px">
+                    <button type="button" class="btn btn-default" id="dimeButton">Add Dime</button>
+                    <button type="button" class="btn btn-default" id="nickelButton">Add Nickel</button>
+                </div>
+                <hr/>
+            </div>
+            <div class="row">
+                <h3 style="text-align: center; margin-left: 25px">Message</h3>
+                <div class="row" style="border:1px solid black; width: 250px; height: 35px; margin-left: 30px; text-align: center" id="message">
+                </div>
+                <div class="row" style=" margin-top: 5px">
+                    <h5 style="float: left; margin-left: 183px">Item:</h5>
+                    <div class="col-xs-3" style="border:1px solid black; width: 75px; height: 35px; margin-left: 5px" id="itemNumber"></div>
+                </div>
+
+                <div class="row" style="margin-top: 6px; margin-left: 95px">
+                    <button type="button" class="btn btn-default" id="purchaseButton">Make Purchase</button>
+                </div>
+            </div>
+            <hr/>
+            <div class="row">
+                <h3 style="text-align: center; margin-left: 25px">Change</h3>
+                <div clas="row" style="border:1px solid black; width: 160px; height: 40px; margin-left: 75px" id="change"></div>
+                <div class="row" style="margin-top: 6px; margin-left: 95px">
+                    <button type="button" class="btn btn-default" id="returnBtn">Return Change</button>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+
+    <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="js/home.js"></script>
+</body>
+
+</html>

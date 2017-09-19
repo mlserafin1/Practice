@@ -1,0 +1,18 @@
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\obj\Debug\StudentInformationSystems.BLL.csprojResolveAssemblyReference.cache
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.BLL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.BLL.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.DAL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.Models.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.DAL.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.Models.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\obj\Debug\StudentInformationSystems.BLL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.BLL\obj\Debug\StudentInformationSystems.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.DAL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.DAL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\bin\Debug\StudentInformationSystems.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\obj\Debug\StudentInformationSystems.BLL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\obj\Debug\StudentInformationSystems.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.BLL\obj\Debug\StudentInformationSystems.BLL.pdb

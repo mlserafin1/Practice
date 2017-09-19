@@ -1,0 +1,66 @@
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\csc.exe
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\System.Collections.Immutable.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\vbc.exe
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\VBCSCompiler.exe
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\roslyn\VBCSCompiler.exe.config
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\SendingDataToAspNet.dll.config
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\SendingDataToAspNet.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\SendingDataToAspNet.pdb
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Helpers.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Mvc.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Razor.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Webpages.Deployment.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Webpages.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Webpages.Razor.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Razor.xml
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Webpages.xml
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Webpages.Deployment.xml
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Webpages.Razor.xml
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Helpers.xml
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\bin\System.Web.Mvc.xml
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\obj\Debug\SendingDataToAspNet.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\obj\Debug\SendingDataToAspNet.dll
+D:\Git\Curriculum\dotnet\DDWA\01-AspNet\CodeSamples\03A-Sending-Data-To-ASP-NET-MVC\SendingDataToAspNet\obj\Debug\SendingDataToAspNet.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\SendingDataToAspNet.dll.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\SendingDataToAspNet.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\SendingDataToAspNet.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Webpages.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Webpages.Razor.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Webpages.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Webpages.Razor.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\obj\Debug\SendingDataToAspNet.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\obj\Debug\SendingDataToAspNet.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\SendingDataToASPNET\SendingDataToAspNet\obj\Debug\SendingDataToAspNet.pdb

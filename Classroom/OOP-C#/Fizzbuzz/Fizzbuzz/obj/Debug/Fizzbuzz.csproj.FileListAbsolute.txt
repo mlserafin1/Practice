@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2017\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe
+c:\users\dell\documents\visual studio 2017\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.exe
+c:\users\dell\documents\visual studio 2017\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.pdb

@@ -1,0 +1,275 @@
+		public DbSet<Dvd> Dvds { get; set; }
+        public DbSet<Rating> Ratings { get; set; }
+		
+Each package is licensed to you by its owner. NuGet is not responsible for, nor does it grant any licenses to, third-party packages. Some packages may include dependencies which are governed by additional licenses. Follow the package source (feed) URL to determine any dependencies.
+
+Package Manager Console Host Version 4.1.0.2427
+
+Type 'get-help NuGet' to see all available NuGet commands.
+
+PM> Enable-Migrations
+Checking if the context targets an existing database...
+Code First Migrations enabled for project DVDLibrary.
+PM> Add-Migration initDB
+Scaffolding migration 'initDB'.
+The Designer Code for this migration file includes a snapshot of your current Code First model. This snapshot is used to calculate the changes to your model when you scaffold the next migration. If you make additional changes to your model that you want to include in this migration, then you can re-scaffold it by running 'Add-Migration initDB' again.
+PM> Update-Database
+Specify the '-Verbose' flag to view the SQL statements being applied to the target database.
+Applying explicit migrations: [201707071410355_initDB].
+Applying explicit migration: 201707071410355_initDB.
+Running Seed method.
+PM>
+ 
+
+
+
+<form id="purchaseForm" class="form-inline">
+    <div class="row">
+        <div class="col-xs-3">
+            <div class="block">
+                <label for="name">Name</label>
+                <input id="name" name="name" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+            <div class="block">
+                <label for="email">Email</label>
+                <input id="email" name="email" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+            <div class="block">
+                <label for="street1">Street 1</label>
+                <input id="street1" name="street1" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+            <div class="block">
+                <label for="city">City</label>
+                <input id="city" name="city" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+            <div class="block">
+                <label for="zipCode">Zipcode</label>
+                <input id="zipCode" name="zipCode" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+        </div>
+        <div class="col-xs-3">
+            <div class="block">
+                <label for="phone">Phone</label>
+                <input id="phone" name="phone" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+            <br/>
+            <br />
+            <br />
+            <div class="block">
+                <label for="street2">Street 2</label>
+                <input id="street2" name="street2" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+            <div class="block">
+                <label for="state">State</label>
+                <select id="state" style="width:auto;">
+                    <option value="AK">AK</option>
+                    <option value="AL">AL</option>
+                    <option value="MI">MI</option>
+                    <option value="SC">SC</option>
+                    <option value="OH">OH</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <hr/>
+    <div class="row">
+        <div class="col-xs-3">
+            <div class="block">
+                <label for="purchasePrice">Purchase Price</label>
+                <input id="purchasePrice" name="purchasePrice" type="text" placeholder="" class="form-control input-sm" style="width:auto;">
+            </div>
+        </div>
+        <div class="col-xs-3">
+            <div class="block">
+                <label for="purchaseType">Purchase Type</label>
+                <select id="purchaseType" style="width:auto;">
+                    <option value="1">Bank Finance</option>
+                    <option value="2">Cash</option>
+                    <option value="3">Dealer Finance</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-left: 40%; margin-right: 60%; padding-top:10px;">
+        <button id="btnPurchaseSave" class="btn btn-default" style="width: 150px; margin-bottom:5px">Save</button>
+    </div>
+</form>
+
+
+<label>Purchase Type</label>
+                            @Html.DropDownListFor(m => m.Purchase.PurchaseTypeId, Model.PurchasesTypes, new { @class = "form-control" })
+
+
+TODO:
+Make sales mvc controller and api controller
+Make admin mvc controller and api controller
+
+add purchase price to purchase table, model, and all stored procedures
+
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+                {
+                    <li>@Html.ActionLink("Add Movie", "AddMovie", "Home")</li>
+                }                    
+            </ul>
+			
+			
+			<div class="row" style="border:1px solid">
+    <div class="col-xs-1" style="margin-top:10px;">
+        <p>New Make</p>
+    </div>
+    <form>
+        <div class="col-xs-3" style="margin-top:7px;">
+            <input type="text" id="make" name="make" />
+        </div>
+        <div class="col-xs-1" style="margin-top:3px;">
+            <button class="btn btn-primary">Save</button>
+        </div>
+    </form>
+</div>
+
+
+
+
+
+
+<div class="row">
+            <div class="col-md-2 col-md-offset-9">
+                <br />
+                <br />
+              
+                <a href='@Url.Action("Contact", "Home")'>
+                    <button class="btn btn-primary">Contact Us</button>
+                </a>
+            </div>
+        </div>
+		
+		
+		@Html.ActionLink("Contact Us","Contact","Home", new { vin = Model.Vin },null)
+		
+		
+		<a href='@Url.Action("Details", "Inventory", new { id = car.VehicleId })'>
+    <button class="btn btn-primary">Contact Us</button></a>
+	
+	
+da38ae12-2d66-4948-bcac-e3c4fa54a4bc
+
+
+
+
+
+use RunJMC
+go
+
+SELECT e.EntryId, Content, IsApproved, PublishDate, CategoryId, UserId, Title, IsStatic, t.TagId, t.TagName
+	FROM Entries e
+	LEFT JOIN EntriesTags et ON et.EntryId = e.EntryId
+	INNER JOIN Tags t ON et.TagId = t.TagId
+	WHERE t.TagId = 7 OR t.TagId = 4;
+
+	SELECT e.EntryId, Content, IsApproved, PublishDate, CategoryId, UserId, Title, IsStatic, t.TagId, t.TagName
+	FROM Entries e
+	INNER JOIN EntriesTags et ON et.EntryId = e.EntryId
+	RIGHT JOIN Tags t ON et.TagId = t.TagId
+	WHERE e.EntryId = 10;
+	
+	
+	
+	
+	
+	use RunJMC
+go
+
+SELECT e.EntryId, Content, IsApproved, PublishDate, CategoryId, UserId, Title, IsStatic, t.TagId, t.TagName
+	FROM Entries e
+	
+	
+	
+	
+	
+	
+	
+	@model IEnumerable<RunJMC.Models.Tables.Entry>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Run JMC</h1>
+    <p class="lead">Blogs about nothing</p>
+    
+</div>
+
+@Html.ActionLink("Search By Category","SearchByCategory","Home") | 
+@Html.ActionLink("Search By Tag", "SearchByHashTag", "Home")
+
+<div class="row">
+    <br />
+    <div class="col-md-8">
+        <table class="table table-bordered table-striped">
+            <thead bgcolor="#ccffff">
+
+            <th>Title</th>
+            <th>Blog Date</th>
+            <th>Author</th>
+            <th></th>
+          
+            </thead>
+            @foreach (var mod in Model)
+            {
+                if (@mod.IsApproved)
+                {
+                    <tr>
+                        <td>@mod.Title</td>
+                        <td>@mod.PublishDate</td>
+                        <td>@mod.Author </td>
+                        <td>@Html.ActionLink("Read", "Details", "Home", new {id = @mod.EntryId}, null)</td>
+
+
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>
+
+	INNER JOIN Tags t ON et.TagId = t.TagId
+	WHERE t.TagId = 5 --OR t.TagId = 6;
+	
+	
+	
+use RunJMC
+go
+
+SELECT EntryId, Author, Content, IsApproved, PublishDate, CategoryId, UserId, Title, IsStatic FROM Entries WHERE IsApproved = 1 AND IsStatic = 0 AND Title LIKE '%' + 'new' + '%' ORDER BY PublishDate DESC
+
+------------------------------------------------------
+
+use RunJMC
+go
+
+SELECT e.EntryId, Author, Content, IsApproved, PublishDate, CategoryId, UserId, Title, IsStatic
+	FROM Entries e
+	INNER JOIN EntriesTags et ON et.EntryId = e.EntryId
+	INNER JOIN Tags t ON et.TagId = t.TagId
+	WHERE t.TagId = 1
+	
+------------------------------------------------------
+	
+use RunJMC
+go
+
+SELECT e.EntryId, Content, IsApproved, PublishDate, CategoryId, UserId, Title, IsStatic, t.TagId, t.TagName
+	FROM Entries e
+	INNER JOIN EntriesTags et ON et.EntryId = e.EntryId
+	RIGHT JOIN Tags t ON et.TagId = t.TagId
+	WHERE e.EntryId = 1;
+	
+-------------------------------------------------------------------------------------------------------------------------	
+	mwarner
+	588sturbridge
+	
+	Mill48169
+	
+	set desktop to not automatically install updates
+	make sure desktop reboots after power failure or something

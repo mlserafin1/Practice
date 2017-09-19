@@ -1,0 +1,46 @@
+﻿@model CarDealership.UI.Models.AddModelViewModel
+
+@{
+    ViewBag.Title = "Add Model";
+}
+
+<h2>Models</h2>
+
+<div class="row" style="border:1px solid">
+    <div class="col-xs-2" style="margin-top:10px;">
+        <p>New Model</p>
+    </div>
+    @using (Html.BeginForm("Models", "Admin", FormMethod.Post, new { enctype = "multipart/form-data", id = "frmAddModel" }))
+    {
+        <div class="col-xs-3" style="margin-top:7px;">
+            <input type="text" id="name" name="name" />
+        </div>
+        <div class="col-xs-1" style="margin-top:7px;">
+            <p>Make</p>
+        </div>
+        <div class="col-xs-3" style="margin-top:3px;">
+            @Html.DropDownListFor(m => m.Model.MakeId, Model.Makes, "-Select-", new { @class = "form-control", id = "MakeId" })
+        </div>
+        <div class="col-xs-1" style="margin-top:3px;">
+            <button class="btn btn-primary">Save</button>
+        </div>
+    }
+</div>
+<br /><br />
+<table border="1">
+    <tr>
+        <th>Make</th>
+        <th>Model</th>
+        <th>Date Added</th>
+        <th>User</th>
+    </tr>
+    @foreach (var m in Model.MakesAndModels)
+    {
+        <tr>
+            <td>@m.MakeName</td>
+            <td>@m.ModelName</td>
+            <td>@m.DateAdded</td>
+            <td>@m.UserId</td>
+        </tr>
+    }
+</table>

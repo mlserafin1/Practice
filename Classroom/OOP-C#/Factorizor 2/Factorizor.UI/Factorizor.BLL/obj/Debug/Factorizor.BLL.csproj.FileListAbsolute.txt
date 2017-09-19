@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Factorizor 2\Factorizor.UI\Factorizor.BLL\obj\Debug\Factorizor.BLL.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Factorizor 2\Factorizor.UI\Factorizor.BLL\bin\Debug\Factorizor.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Factorizor 2\Factorizor.UI\Factorizor.BLL\bin\Debug\Factorizor.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Factorizor 2\Factorizor.UI\Factorizor.BLL\obj\Debug\Factorizor.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Classroom\Factorizor 2\Factorizor.UI\Factorizor.BLL\obj\Debug\Factorizor.BLL.pdb

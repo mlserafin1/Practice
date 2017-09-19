@@ -1,0 +1,106 @@
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\obj\Debug\StudentInformationSystems.Web.csprojResolveAssemblyReference.cache
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\csc.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\csc.exe.config
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\csc.rsp
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\csi.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\csi.rsp
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\System.AppContext.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\vbc.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\vbc.exe.config
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\vbc.rsp
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\VBCSCompiler.exe
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.Web.dll.config
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.Web.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.Web.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.BLL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.Models.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Helpers.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Mvc.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Razor.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Webpages.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Webpages.Razor.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.DAL.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.BLL.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.Models.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Razor.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Webpages.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Webpages.Razor.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Helpers.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\System.Web.Mvc.xml
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\bin\StudentInformationSystems.DAL.pdb
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\obj\Debug\StudentInformationSystems.Web.dll
+D:\Proejcts\InPerson\May\akron-dotnet-may-2017\StudentInformationSystems\StudentInformationSystems.Web\obj\Debug\StudentInformationSystems.Web.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\csc.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\csc.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\csi.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\csi.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\System.AppContext.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\vbc.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\vbc.rsp
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.Web.dll.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.Web.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.Web.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Helpers.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Mvc.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Razor.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Webpages.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.DAL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Razor.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Webpages.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Helpers.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\System.Web.Mvc.xml
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\bin\StudentInformationSystems.DAL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\obj\Debug\StudentInformationSystems.Web.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\obj\Debug\StudentInformationSystems.Web.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Course 2 - Web\StudentInformationSystemsFromClassRepo\StudentInformationSystems.Web\obj\Debug\StudentInformationSystems.Web.pdb

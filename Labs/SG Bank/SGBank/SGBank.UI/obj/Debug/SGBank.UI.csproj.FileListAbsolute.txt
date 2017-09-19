@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\dell\Desktop\GuildWork\manning-serafin-individual-work\Labs\SG Bank\SGBank\SGBank.UI\bin\Debug\SGBank.Data.pdb
